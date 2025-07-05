@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/home/yizaochen/codes/react-fastapi/jwt-auth-learn/my-fastapi-app/.venv/bin/python3",
+    "python.analysis.typeCheckingMode": "basic"
+}
